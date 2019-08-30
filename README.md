@@ -1,4 +1,4 @@
 # jenkins-calculator
 xxxx   yyyy
-xxx 
+xxx   
 asdf
